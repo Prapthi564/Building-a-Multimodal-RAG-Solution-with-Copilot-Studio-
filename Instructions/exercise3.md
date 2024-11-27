@@ -80,7 +80,7 @@ In this task, you will create custom topics and integrate them with AI Search as
 
 1. In the next pane, ensure that hr-index is selected and click on **Add**.
 
-   ![](../media/ex3img17.png)
+   ![](../media/ex4img9.png)
 
 1. Once it is added, in the design pane, under **Create generative answers** click on **>** option as shown.
 
@@ -120,7 +120,8 @@ In this task, you will test the RAG pipeline in Copilot Studio. You will evaluat
 
    - `What happens to time if you fall into a black hole?`
 
-
 ## Summary
 
 In this exercise, you integrated AI Search with Copilot Studio to enhance your AI-powered workflows. You created an agent, improved query processing with custom topics, and tested and optimized the Retrieval-Augmented Generation (RAG) pipeline. This hands-on experience helped you use AI Search to better manage and retrieve information from various data sources, making your applications smarter and more efficient.
+
+### You have successfully completed the Lab!

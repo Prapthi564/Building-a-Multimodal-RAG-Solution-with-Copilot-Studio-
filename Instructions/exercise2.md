@@ -54,13 +54,13 @@ In this task, you will connect Blob Storage as a data source in Azure AI Studio'
 
    - **Select Azure AI Search resource :** select **aisearch-<inject key="DeploymentID" enableCopy="false" />** **(5)** AI Search.
 
-   - **Enter the index name :** provide as **hr-index (6)**.
+   - **Enter the index name :** provide as **phy-index (6)**.
 
    - **Add vector search to this search resource :** ensure the option is **Checked (7)**
 
    - **Select an embedding model :** select **Azure OpenAI-text-embedding-ada-002 (8)** model.
 
-     ![](../media/ex2img7.png)
+     ![](../media/ex4img5.png)
 
 1. On the Data management pane, keep everything as default and click on **Next**.
 
@@ -78,9 +78,9 @@ In this task, you will connect Blob Storage as a data source in Azure AI Studio'
 
    ![](../media/ex2img11.png)
 
-1. In the **Azure AI Search** page, select **indexes** from left menu and you will be able to see an index with the name **hr-index** has been created.
+1. In the **Azure AI Search** page, select **indexes** from left menu and you will be able to see an index with the name **phy-index** has been created.
 
-   ![](../media/ex2img12.png)
+   ![](../media/ex4img8.png)
 
    >**Note:** Please wait till some data populates under **Vector index size**, it may take some time to populate. The data may differ from the value shown in screenshot.
 

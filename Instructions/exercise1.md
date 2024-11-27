@@ -40,9 +40,9 @@ To understand the versatility of RAG, let’s explore some key use cases across 
 
 - **Financial Services:** RAG is helpful in financial services, where it supports wealth managers and advisors by providing personalized investment insights. It retrieves market trends, stock data, and regulatory updates, tailoring advice to individual client profiles. Additionally, it automates the generation of financial reports, streamlining processes and ensuring accuracy.
 
-- **Human Resources:** In HR, RAG can be used to address employee queries by pulling information from company policies, benefits guides, or training documents, enhancing the efficiency of HR operations and improving employee satisfaction.
+- Study Partner: RAG can be used to enhance the learning experience for study partners by retrieving relevant study materials, practice questions, and academic resources from textbooks, research papers, or online databases. It can help study groups by providing instant answers to questions, summarizing complex topics, or offering additional resources, improving collaboration and efficiency in preparing for exams or assignments.
 
-For this lab, you will focus on the human resources use case, demonstrating how RAG can simplify and enhance workflows in employee queries.
+For this lab, you will focus on the Study Partner use case, where we crafted the dataset with intresting physics topics that you can explore.
 
 ### Task 2: Setting Up Copilot Studio
 
