@@ -16,13 +16,13 @@ In this task, you will create an agent in Copilot Studio. The agent will leverag
 
    ![](../media/ex3img2.png)
 
-1. In the next pane, provide the **Name** as **Human Resource Agent** and click on create.
+1. In the next pane, provide the **Name** as **Physics Agent** and click on create.
 
-   ![](../media/ex3img3.png)
+   ![](../media/ex4img6.png)
 
 1. Now you have successfully created a agent, you will be configuring it in the further tasks.
 
-   ![](../media/ex3img4.png)
+   ![](../media/ex4img15.png)
 
 ### Task 2: Enhancing Query Processing with Custom Topics 
 
@@ -40,15 +40,15 @@ In this task, you will create custom topics and integrate them with AI Search as
 
    ![](../media/ex3img13.png)
 
-1. Navigate back to Copilot Studio, as you have created an agent, its time to add custom topics to it. In the **Agents** pane, under **Topics (1)** tab, select **+ Add a topic (2)** and click on **From blank (3)** from the dropdown as we are creating a custom topic.
+1. Navigate back to Copilot Studio, as you have created an agent, its time to add custom topics to it. In the **Agents** pane, under **Topics** tab, select **+ Add a topic (1)** and click on **From blank (2)** from the dropdown as we are creating a custom topic.
 
-   ![](../media/ex3img5.png)
+   ![](../media/ex4img7.png)
 
    >**LabTip: Topic:** is a structured category of knowledge that helps organize and manage content. It allows the AI to retrieve relevant information from a specific domain.
 
 1. Now you will be navigated to design pane, where you can design the workflow of your topic.
 
-   ![](../media/ex3img6.png)
+   ![](../media/ex3img6updated.png)
 
 1. To build a workflow, click on **+** option as shown.
 
@@ -92,7 +92,7 @@ In this task, you will create custom topics and integrate them with AI Search as
 
 1. Once after adding the input, click on **Save** to save the topic.
 
-   ![](../media/ex3img20.png)
+   ![](../media/ex3img20updated.png)
 
 1. Now you have successfully created a agent with your own data. You will test and verify the working of the agent in further task.
 
@@ -102,4 +102,25 @@ In this task, you will test the RAG pipeline in Copilot Studio. You will evaluat
 
 1. In the design pane, you will be able to see a chat area in the right as **Test your agent**.
 
-   ![](../media/ex3img21.png)
+1. In the **Test your agent** pane, use the prompts given here and get the answers for them.
+
+   ![](../media/ex4img10.png)
+
+1. We've crafted a collection of mind-blowing physics concepts as knwoledge base just for you! Dive in with these prompts, ask away, and unlock the mysteries: 
+
+   - `What happens to time when an object moves close to the speed of light?`
+
+   - `Can a cat really be alive and dead at the same time?`
+
+   - `What is the fourth dimension, and how is it related to time?`
+
+   - `Why does the sound of a siren change as it passes you?`
+
+   - `Can you explain the physics behind tsunamis?`
+
+   - `What happens to time if you fall into a black hole?`
+
+
+## Summary
+
+In this exercise, you integrated AI Search with Copilot Studio to enhance your AI-powered workflows. You created an agent, improved query processing with custom topics, and tested and optimized the Retrieval-Augmented Generation (RAG) pipeline. This hands-on experience helped you use AI Search to better manage and retrieve information from various data sources, making your applications smarter and more efficient.
