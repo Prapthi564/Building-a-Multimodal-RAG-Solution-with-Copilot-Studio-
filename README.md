@@ -1,1 +1,1 @@
-# Building-a-Multimodal-RAG-Solution-with-Copilot-Studio-
+# Building-a-Multimodal-RAG-Solution-with-Copilot-Studio
