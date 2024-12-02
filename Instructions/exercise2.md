@@ -16,11 +16,11 @@ In this task, you will connect Blob Storage as a data source in Azure AI Studio'
 
 1. On Resource groups pane, select resource group **copilot-<inject key="DeploymentID" enableCopy="false" />**.
 
-   ![](../media/ex2img2.png)
+   ![](../media/ex1-updated1.png)
 
 1. From the resource list, select **openai-<inject key="DeploymentID" enableCopy="false" />** AI Service.
 
-   ![](../media/ex2img3.png)
+   ![](../media/ex1-updated2.png)
 
 1. In the Azure OpenAI pane, click on **Go to Azure OpenAI Studio** to navigate to AI Studio, where you will be ingesting your data.
 
