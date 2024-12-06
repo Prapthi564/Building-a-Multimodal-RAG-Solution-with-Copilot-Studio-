@@ -1,0 +1,20 @@
+[ 
+  {
+  "Name": "Activate GenAI Hackathon - Day 1",
+  "Language": "English",
+  "Files": [
+     {
+        "RawFilePath": "https://raw.githubusercontent.com/Aryan-CC/rag-hack/refs/heads/main/overview.md",
+       "Order": 1
+     },
+     {
+        "RawFilePath": "https://raw.githubusercontent.com/Aryan-CC/rag-hack/refs/heads/main/getting-started.md",
+       "Order": 2
+     },
+     {
+        "RawFilePath": "https://raw.githubusercontent.com/Aryan-CC/rag-hack/refs/heads/main/challenge.md",
+       "Order": 3
+     }
+  ]
+}
+]
