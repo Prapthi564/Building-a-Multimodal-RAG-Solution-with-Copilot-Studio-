@@ -1,8 +1,14 @@
 # Exercise 4: Deployment and Publishing Options 
 
+### Estimated Duration: 1 Hour
+
 ## Overview
 
 In this exercise, you will explore various deployment and publishing options for your AI-powered solution. The focus will be on integrating Retrieval-Augmented Generation (RAG) with custom platforms, with an emphasis on deploying the solution to a public demo website. Authentication will be removed for this lab, as the application will be deployed as a public website. You will explore different available channels, such as Teams, Slack, and others, but in this exercise, you will configure and publish the app specifically to the Demo Website channel.
+
+## Objectives
+
+- Integrating RAG with Custom Platforms
 
 ### Task 1: Integrating RAG with Custom Platforms
 

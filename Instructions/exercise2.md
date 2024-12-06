@@ -1,8 +1,14 @@
 # Exercise 2: Data Ingestion and Preprocessing 
 
+### Estimated Duration: 1 Hour
+
 ## Overview
 
 In this exercise, you will learn how to ingest data into a system powered by Azure AI tools and preprocess it using GPT-4 Turbo and text embedding models. The exercise involves connecting a Blob Storage to Azure AI Studio, where various data formats (text, images, and tables) have been uploaded. You will use these files to create vectorized indexes, which will be generated using advanced AI models. After that, you will navigate to Azure AI Search to review the creation and structure of these indexes, ensuring that the data has been successfully ingested and preprocessed.
+
+## Objectives
+
+- Adding and Configuring a Data Source
 
 ### Task 1: Adding and Configuring a Data Source
 

@@ -1,8 +1,16 @@
 # Exercise 1: Introduction to Retrieval-Augmented Generation (RAG) Automation and Copilot Studio 
 
+### Estimated Duration: 30 Minutes
+
 ## Overview
 
 This exercise introduces the foundational concepts and practical applications of Retrieval-Augmented Generation (RAG) and the capabilities of Copilot Studio in automating intelligent workflows. By combining AI-driven generative models with external knowledge retrieval, participants will learn how to build scalable and dynamic RAG solutions tailored for real-world challenges.
+
+## Objectives
+
+- Overview of RAG and Automation
+
+- Setting Up Copilot Studio
 
 ### Task 1: Overview of RAG and Automation
 
@@ -68,4 +76,4 @@ In this task, you will log in to Copilot Studio and get a high-level overview of
 
 In this exercise, you explored the fundamentals of Retrieval-Augmented Generation (RAG) and its role in enhancing AI workflows. You reviewed how RAG integrates external knowledge sources to deliver accurate and context-rich responses. Additionally, you gained an overview of Copilot Studio, learning how it automates RAG workflows and simplifies tasks such as data integration and skill customization. By logging into Copilot Studio, you became familiar with its interface, preparing you to leverage its capabilities for building effective RAG solutions.
 
-### You have successfully completed the lab!
+### You have successfully completed this Exercise!

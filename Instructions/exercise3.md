@@ -1,8 +1,18 @@
 # Exercise 3: Integrating AI Search with Copilot Studio 
 
+### Estimated Duration: 1 Hour 30 Minutes
+
 ## Overview
 
 In this exercise, you will integrate AI Search with Copilot Studio to enhance your AI-powered workflows. You will create an agent, improve query processing with custom topics, and test and optimize the Retrieval-Augmented Generation (RAG) pipeline. This hands-on experience will help you use AI Search to better manage and retrieve information from various data sources, making your applications smarter and more efficient.
+
+## Objectives
+
+- Creating and Configuring an AI Agent
+
+- Enhancing Query Processing with Custom Topics 
+
+- Testing and Optimizing the RAG Pipeline
 
 ### Task 1: Creating and Configuring an AI Agent
 
