@@ -1,0 +1,16 @@
+[ 
+  {
+  "Name": "Copilot Hackathon | LTI Mindtree",
+  "Language": "English",
+  "Files": [
+     {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Building-a-Multimodal-RAG-Solution-with-Copilot-Studio-/refs/heads/challenge/getting-started-soln.md",
+       "Order": 1
+     },
+     {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Building-a-Multimodal-RAG-Solution-with-Copilot-Studio-/refs/heads/challenge/solution.md",
+       "Order": 2
+     }
+  ]
+}
+]
