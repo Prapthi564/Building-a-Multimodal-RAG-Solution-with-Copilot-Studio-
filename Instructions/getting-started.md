@@ -34,9 +34,11 @@ The architecture facilitates the seamless ingestion and retrieval of data for us
 
 ## Architecture Diagram
 
-![](../media/rag-arch.png)
+![](../media/rag-archi.png)
 
 ## Explanation of Components
+
+The architecture for this lab involves several key components:
 
 - **Azure Blob Storage:** Serves as the primary data repository, storing documents that will be ingested into the system. This ensures secure and scalable storage for unprocessed data.
 
@@ -80,15 +82,15 @@ Feel free to start, stop, or restart your virtual machine as needed from the Res
 
 1. In the JumpVM, click on **Azure portal** shortcut of Microsoft Edge browser which is created on desktop.
 
-![](../media/gs-8.png)
+   ![](../media/gs-8.png)
 
-1. On **Sign into Microsoft Azure** tab you will see login screen, in that enter following email/username and then click on **Next**.
+1. On the **Sign into Microsoft Azure** tab, you will see the login screen. Enter the provided email or username, and click **Next** to proceed.
 
    - Email/Username: <inject key="AzureAdUserEmail"></inject>
 
      ![](../media/gs-6.png)
 
-1. Now enter the following password and click on **Sign in**.
+1. Now, enter the following password and click on **Sign in**.
 
    - Password: <inject key="AzureAdUserPassword"></inject>
 
