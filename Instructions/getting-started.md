@@ -20,6 +20,8 @@ Learn to build and automate a Retrieval-Augmented Generation (RAG) solution usin
 
 ## Pre-requisites
 
+Participants should have the following prerequisites:
+
 - **Familiarity with Azure Resources:** Basic understanding of Azure services and the Azure portal for managing cloud resources.
 
 - **Knowledge of Copilot Studio:** Familiarity with Copilot Studio and its capabilities for building AI-driven solutions.
