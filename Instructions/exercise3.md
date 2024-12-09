@@ -136,4 +136,4 @@ In this task, you will test the RAG pipeline in Copilot Studio. You will evaluat
 
 In this exercise, you integrated AI Search with Copilot Studio to enhance your AI-powered workflows. You created an agent, improved query processing with custom topics, and tested and optimized the Retrieval-Augmented Generation (RAG) pipeline. This hands-on experience helped you use AI Search to better manage and retrieve information from various data sources, making your applications smarter and more efficient.
 
-### You have successfully completed the Lab!
+### You have successfully completed this Exercise!
