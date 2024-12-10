@@ -8,7 +8,9 @@ In this exercise, you will learn how to ingest data into a system powered by Azu
 
 ## Objectives
 
-- Adding and Configuring a Data Source
+You will be able to complete the following task:
+
+- Task 1 : Adding and Configuring a Data Source
 
 ### Task 1: Adding and Configuring a Data Source
 
@@ -28,11 +30,11 @@ In this task, you will connect Blob Storage as a data source in Azure AI Studio'
 
    ![](../media/ex1-updated2.png)
 
-1. In the Azure OpenAI pane, click on **Go to Azure OpenAI Studio** to navigate to AI Studio, where you will be ingesting your data.
+1. In the Azure OpenAI pane, click on **Go to Azure AI Foundry Portal** to navigate to AI Foundry, where you will be ingesting your data.
 
-   ![](../media/ex2img4.png)
+   ![](../media/i2.png)
 
-1. Once you are inside **Azure OpenAI Studio**, click on **deployments** to check the models deployed.
+1. Once you are inside **Azure AI Foundry**, click on **deployments** to check the models deployed.
 
    ![](../media/ex2img13.png)
 
@@ -40,7 +42,7 @@ In this task, you will connect Blob Storage as a data source in Azure AI Studio'
 
    > **text-embedding-ada-002:** A text embedding model converts text into a numerical representation (vector), capturing the semantic meaning of the content. These embeddings allow for efficient similarity searches and can be used to compare, cluster, or retrieve relevant information from large text datasets.\
 
-1. In Azure OpenAI Studio, navigate to chat playground by selecting **chat** option from left menu.
+1. In Azure AI Foundry, navigate to chat playground by selecting **chat** option from left menu.
 
    ![](../media/ex2img5.png)
 
@@ -52,13 +54,13 @@ In this task, you will connect Blob Storage as a data source in Azure AI Studio'
 
    - **Select data source :** select **Azure Blob Storage (preview) (1)** from dropdown.
 
-   - **Subscription :** Select proper subscription **(2)**.
+   - **Subscription :** Select the available subscription **(2)**.
 
    - **Select Azure Blob Storage resource :** Select **storage<inject key="DeploymentID" enableCopy="false" />** **(3)** storage account from list.
 
    - **Select storage container :** select **documents (4)** container.
 
-   - **Select Azure AI Search resource :** select **aisearch-<inject key="DeploymentID" enableCopy="false" />** **(5)** AI Search.
+   - **Select Azure AI Search resource :** select **aisearch-<inject key="DeploymentID" enableCopy="false" />** **(5)** AI Search from list.
 
    - **Enter the index name :** provide as **phy-index (6)**.
 
@@ -84,7 +86,7 @@ In this task, you will connect Blob Storage as a data source in Azure AI Studio'
 
    ![](../media/ex2img11.png)
 
-1. In the **Azure AI Search** page, select **indexes** from left menu and you will be able to see an index with the name **phy-index** has been created.
+1. In the **Azure AI Search** page, select **indexes** from left menu under Search management, you will be able to see an index with the name **phy-index** has been created.
 
    ![](../media/ex4img8.png)
 
@@ -96,4 +98,4 @@ In this task, you will connect Blob Storage as a data source in Azure AI Studio'
 
 In this exercise, you have navigated to Azure AI Studio and added a data source by connecting Blob Storage to the Chat Playground. You utilized the GPT-4 Turbo and text embedding models to analyze images, text, and tables, generating vectorized indexes. These indexes were then created in the Azure AI Search service, and you reviewed them to confirm the proper ingestion and indexing of the data.
 
-### You have successfully completed this Lab!
+### You have successfully completed this exercise!

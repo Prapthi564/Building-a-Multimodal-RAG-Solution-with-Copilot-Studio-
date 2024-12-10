@@ -8,9 +8,11 @@ This exercise introduces the foundational concepts and practical applications of
 
 ## Objectives
 
-- Overview of RAG and Automation
+You will be able to complete the following tasks:
 
-- Setting Up Copilot Studio
+- Task 1 : Overview of RAG and Automation
+
+- Task 2 : Setting Up Copilot Studio
 
 ### Task 1: Overview of RAG and Automation
 
@@ -57,6 +59,10 @@ For this lab, you will focus on the Study Partner use case, where we crafted the
 In this task, you will log in to Copilot Studio and get a high-level overview of its interface and features. This will familiarize you with the platform's capabilities, setting the stage for creating and managing RAG workflows in subsequent tasks.
 
 1. From your browser, navigate to **Copilot Studio** using this link [copilot studio](https://go.microsoft.com/fwlink/p/?linkid=2252408&clcid=0x409&culture=en-us&country=us)
+
+1. On Welcome to Microsoft Copilot Studio page, Click on **Start free trail**.
+
+   ![](../media/i1.png)
 
 1. Once you navigate, you will be able to see a sign in page, please use the provided details to login and click on **sign in**:
 

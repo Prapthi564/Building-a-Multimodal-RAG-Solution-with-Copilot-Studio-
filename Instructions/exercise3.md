@@ -8,11 +8,13 @@ In this exercise, you will integrate AI Search with Copilot Studio to enhance yo
 
 ## Objectives
 
-- Creating and Configuring an AI Agent
+You will be able to complete the following tasks:
 
-- Enhancing Query Processing with Custom Topics 
+- Task 1 : Creating and Configuring an AI Agent
 
-- Testing and Optimizing the RAG Pipeline
+- Task 2 : Enhancing Query Processing with Custom Topics 
+
+- Task 3 : Testing and Optimizing the RAG Pipeline
 
 ### Task 1: Creating and Configuring an AI Agent
 
@@ -46,7 +48,7 @@ In this task, you will create custom topics and integrate them with AI Search as
 
    ![](../media/ex3img12.png)
 
-1. Select **Keys (1)** from left menu, copy **Primary admin key (2)** using the option as shown. You will be using this value further in this task.
+1. Select **Keys (1)** from left menu under Settings, copy **Primary admin key (2)** using the option as shown. You will be using this value further in this task.
 
    ![](../media/ex3img13.png)
 
@@ -134,4 +136,4 @@ In this task, you will test the RAG pipeline in Copilot Studio. You will evaluat
 
 In this exercise, you integrated AI Search with Copilot Studio to enhance your AI-powered workflows. You created an agent, improved query processing with custom topics, and tested and optimized the Retrieval-Augmented Generation (RAG) pipeline. This hands-on experience helped you use AI Search to better manage and retrieve information from various data sources, making your applications smarter and more efficient.
 
-### You have successfully completed the Lab!
+### You have successfully completed this Exercise!
