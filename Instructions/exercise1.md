@@ -12,7 +12,7 @@ You will be able to complete the following tasks:
 
 - Task 1 : Overview of RAG and Automation
 
-- Task 2 : Setting Up Copilot Studio
+- Task 2 : Setting Up an Environment for Copilot Studio
 
 ### Task 1: Overview of RAG and Automation
 
@@ -54,9 +54,11 @@ To understand the versatility of RAG, let’s explore some key use cases across 
 
 For this lab, you will focus on the Study Partner use case, where we crafted the dataset with intresting physics topics that you can explore.
 
-### Task 2: Setting Up Copilot Studio
+### Task 2: Setting Up an Environment for Copilot Studio
 
-In this task, you will log in to Copilot Studio and get a high-level overview of its interface and features. This will familiarize you with the platform's capabilities, setting the stage for creating and managing RAG workflows in subsequent tasks.
+In this task, you will create a environment in powerplatform to use with copilot studio and log in to Copilot Studio to access the environmnet created.
+
+1. From your browser, navigate to **Power Platform Admin Center** using this link [Power Platform](https://admin.powerplatform.microsoft.com/)
 
 1. From your browser, navigate to **Copilot Studio** using this link [copilot studio](https://go.microsoft.com/fwlink/p/?linkid=2252408&clcid=0x409&culture=en-us&country=us)
 
