@@ -112,7 +112,7 @@ In this task, you will create a environment in powerplatform to use with copilot
 
 1. On Welcome to Microsoft Copilot Studio page, Click on **Get Started**.
 
-   ![](../media/i1.png)
+   ![](../media/pp-13.png)
 
 1. Once you navigate, you will be able to see a sign in page, please use the provided details to login and click on **sign in**:
 
