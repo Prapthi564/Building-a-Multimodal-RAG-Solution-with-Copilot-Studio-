@@ -82,9 +82,9 @@ In this task, you will create custom topics and integrate them with AI Search as
   
    ![](../media/ex3img11.png)
 
-1. In the Azure AI Search page, select **Azure AI Search**.
+1. In the Azure AI Search page, click on **create** option.
 
-   ![](../media/ex3img15.png)
+   ![](../media/pp-12.png)
 
 1. Now provide **Azure AI Search Endpoint URL (1)** and **Azure AI Search Admin Key (2)** values which you have copied earlier and click on **Create (3)**.
 
