@@ -82,7 +82,7 @@ In this task, you will create a environment in powerplatform to use with copilot
 
 1. In the **New environment** page, provide the following details and click on **Next (5)** :
 
-   - **Name**: provide as **odl_user_<inject key="DeploymentID" enableCopy="false" />_env** (1)**.
+   - **Name**: provide as **odl_user_<inject key="DeploymentID" enableCopy="false" />_env** **(1)**.
 
    - **Get new features early**: Toggle this option to **Yes (2)**.
 
