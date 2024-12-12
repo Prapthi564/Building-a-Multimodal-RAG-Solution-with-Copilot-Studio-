@@ -74,7 +74,11 @@ Develop an intelligent health symptom identification bot that helps individuals 
 
 4. **Copilot Studio Setup and Agent Creation:**
 
-   - Log in to [Copilot Studio](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjP2MGwj5GKAxV2hK8BHX7POdIQFnoECA4QAQ&url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fmicrosoft-copilot%2Fmicrosoft-copilot-studio&usg=AOvVaw1WLkkpGQ2nGBKuMr-VIVIC&opi=89978449)  using your credentials.
+   - Log in to **Power Platform Admin Center** [Power Platform](https://admin.powerplatform.microsoft.com/) using the credentials provided and create a production environment.
+
+   - Log in to [Copilot Studio](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjP2MGwj5GKAxV2hK8BHX7POdIQFnoECA4QAQ&url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fmicrosoft-copilot%2Fmicrosoft-copilot-studio&usg=AOvVaw1WLkkpGQ2nGBKuMr-VIVIC&opi=89978449)  using the credentials provided.
+
+   - Change the environment to newly created environment.
 
    - Create New Agent and provide the necessary details such as **Name**.
 
