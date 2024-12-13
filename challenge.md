@@ -18,7 +18,7 @@ Develop an intelligent health symptom identification bot that helps individuals 
 
 ## Datasets 
 
-- Download and extract the datasets for this challenge using the [symptoms_datasets]() link.
+- Download and extract the datasets for this challenge using the [symptoms_datasets](https://github.com/CloudLabsAI-Azure/Building-a-Multimodal-RAG-Solution-with-Copilot-Studio-/archive/refs/heads/health-Dataset.zip) link.
 
 ## Accessing the Azure portal
 
