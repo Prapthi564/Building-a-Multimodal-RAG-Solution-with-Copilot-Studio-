@@ -78,15 +78,17 @@ Develop an intelligent health symptom identification bot that helps individuals 
 
    - Log in to **Power Platform Admin Center** [Power Platform](https://admin.powerplatform.microsoft.com/) using the credentials provided and create a production environment.
 
+   - Make sure to provide environment name as **odl_user_<inject key="Deployment ID" enableCopy="false"/>_env**.
+
    - Log in to [Copilot Studio](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjP2MGwj5GKAxV2hK8BHX7POdIQFnoECA4QAQ&url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fmicrosoft-copilot%2Fmicrosoft-copilot-studio&usg=AOvVaw1WLkkpGQ2nGBKuMr-VIVIC&opi=89978449)  using the credentials provided.
 
    - Change the environment to newly created environment.
 
-   - Create New Agent and provide the necessary details such as **Name**.
+   - Create New Agent and provide the necessary details and name as **DiseaseIdentification Agent**.
 
 5. **Topic Creation and Knowledge Base Integration:**
 
-   -  Create new topic and name the topic as **DiseaseIdentification**.
+   -  Create new topic and name the topic as **sym-topic**.
 
    - In the newly created topic, add a Generative Answers node and configure it to pull answers from the Knowledge Base.
 
@@ -100,7 +102,7 @@ Develop an intelligent health symptom identification bot that helps individuals 
 
    - Configure **Demo Web App** as the channel to publish the agent.
 
-   - Publish the agent, use the URL to navigate to the App.
+   - Publish the agent, use the **URL** to navigate to the App.
 
 ## Success Criteria  
 
