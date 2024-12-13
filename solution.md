@@ -202,6 +202,10 @@
 
    ![](./media/pp-3.png)
 
+1. Once signed in, toggle **Try the new admin center** button to use new experiance.
+
+   ![](./media/pp-14.png)
+
 1. Once you are in the **Power Platform Admin center** page, select **Manage (1)** from left menu and click on **+ New (2)**, to create a new environment.
 
    ![](./media/pp-4-updated.png)

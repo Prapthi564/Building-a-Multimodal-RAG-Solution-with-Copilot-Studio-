@@ -18,7 +18,7 @@ Develop an intelligent health symptom identification bot that helps individuals 
 
 ## Datasets 
 
-- Download and extract the datasets for this challenge using the [symptoms_datasets](https://github.com/CloudLabsAI-Azure/Building-a-Multimodal-RAG-Solution-with-Copilot-Studio-/archive/refs/heads/health-Dataset.zip) link.
+- Download and extract the datasets for this challenge using the [symptoms_datasets](https://github.com/CloudLabsAI-Azure/Building-a-Multimodal-RAG-Solution-with-Copilot-Studio-/archive/refs/heads/health-Dataset.zip) link. Please make sure you extract these files inside `C:\LabFiles`.
 
 ## Accessing the Azure portal
 
@@ -46,9 +46,9 @@ Develop an intelligent health symptom identification bot that helps individuals 
 
    - Deploy it in the existing resource group named **rag-hack-<inject key="Deployment ID" enableCopy="false"/>**.
 
-   - Ensure to provide the Azure Blob Storage account name as **blobstorage-<inject key="Deployment ID" enableCopy="false"/>**.
+   - Ensure to provide the Azure Blob Storage account name as **blobstorage<inject key="Deployment ID" enableCopy="false"/>**.
 
-   - Create a container named **datasets**, upload the datasets that you have downloaded.
+   - Create a container named **datasets**, upload the datasets that you have downloaded earlier.
 
 2. **Azure AI Search Resource Deployment:**
 
@@ -68,9 +68,11 @@ Develop an intelligent health symptom identification bot that helps individuals 
 
    -  Ensure to provide the Azure OpenAI Service name as: **OpenAI-<inject key="Deployment ID" enableCopy="false"/>**.
 
-   - Deploy the **GPT-4 model** and the **Text-Embedding** model within the Azure OpenAI Service from OpenAI Studio.
+   - Navigate to  **OpenAI Studio** and deploy two models using the deployments option.
 
-   - From the Chat Playground in OpenAI Studio, use the **Add Data Source** option to select Blob Storage as the source. Then, connect it with Azure AI Search to create **vectorized indexes**.
+   - Deploy the **GPT-4 model** with **50 TPM** and the **Text-Embedding** model within the Azure OpenAI Service from OpenAI Studio.
+
+   - From the Chat Playground in OpenAI Studio, use the **Add Data Source** option to select Blob Storage as the source. Then, connect it with Azure AI Search to create **vectorized indexes** and provide index name as **sym-index**.
 
 4. **Copilot Studio Setup and Agent Creation:**
 
