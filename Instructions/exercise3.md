@@ -102,7 +102,7 @@ In this task, you will create custom topics and integrate them with AI Search as
 
    ![](../media/ex3img19.png)
 
-1. Once after adding the input, click on **Save** to save the topic.
+1. Once after adding the input, click on **Save** and provide the name as **phy-topic** and save it.
 
    ![](../media/ex3img20updated.png)
 
