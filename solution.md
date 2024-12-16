@@ -314,7 +314,7 @@
 
    ![](./media/img42-updated.png)
 
-1. In the same pane, under **Knowledge sources**, toggle **Search only selected sources (1)** button and select **Ai Search (2)** Knowledge base. Make sure that **Allow the AI to use its own general knowledge (preview)** option is turned off.
+1. In the same pane, under **Knowledge sources**, toggle **Search only selected sources (1)** button and select **Ai Search (2)** Knowledge base. Make sure that **Allow the AI to use its own general knowledge (preview) (3)** option is turned off.
 
    ![](./media/pp-15.png)
 
