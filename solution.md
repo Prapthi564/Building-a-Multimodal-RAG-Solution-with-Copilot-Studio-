@@ -96,11 +96,9 @@
  
    ![](./media/img16.png)
 
-1. Once deployed, from the overview page, click on **Go to Azure AI Studio** to navigate to OpenAI Studio.
+1. Once deployed, from the overview page, click on **Go to Azure AI Foundry portal** to navigate to OpenAI Studio.
 
-   ![](./media/img17.png)
-
-   >**Note:** If you are seeing the option as **Go to Azure AI Foundry portal**, then click on it and login with the credentials provided to you and continue the task.
+   ![](./media/pp-16.png)
 
 1. Once you are inside the **Azure AI Foundry | Azure OpenAI Service** pane, select **Deployments (1)** from left menu, click on **+ Deploy model (2)** and select **Deploy base model (3)**.
 
@@ -168,7 +166,7 @@
 
 1. In the **Azure AI Search** page, select **indexes** from left menu and you will be able to see an index with the name **sym-index** has been created.
 
-   ![](./media/img28-updated.png)
+   ![](./media/pp-17.png)
 
    >**Note:** Please wait till some data populates under **Vector index size**, it may take some time to populate. The data may differ from the value shown in screenshot.
 
@@ -242,7 +240,7 @@
 
 1. On Welcome to Microsoft Copilot Studio page, Click on **Get Started**.
 
-   ![](./media/i1.png)
+   ![](./media/pp-13.png)
 
 1. Once you navigate, you will be able to see a sign in page, please use the provided details to login and click on **sign in**:
 
@@ -276,7 +274,7 @@
 
 1. In the next pane, provide the **Name** as **DiseaseIdentification Agent** and click on create.
 
-   ![](./media/img33.png)
+   ![](./media/img33-updated.png)
 
 ## Task 5: Topic Creation and Knowledge Base Integration
 
