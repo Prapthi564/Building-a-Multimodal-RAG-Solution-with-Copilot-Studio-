@@ -60,7 +60,7 @@ In this task, you will create a environment in powerplatform to use with copilot
 
 1. From your browser, navigate to **Power Platform Admin Center** using this link [Power Platform](https://admin.powerplatform.microsoft.com/)
 
-1. In the **Sign in** page, use provided credentials and sign in to power platform and click on **Next**.
+1. If the **Sign in** page is prompted, use the provided credentials to sign in to Power Platform and click **Next**.
 
    - Email/Username: <inject key="AzureAdUserEmail"></inject>
 
@@ -122,17 +122,7 @@ In this task, you will create a environment in powerplatform to use with copilot
 
    ![](../media/pp-13.png)
 
-1. Once you navigate, you will be able to see a sign in page, please use the provided details to login and click on **sign in**:
-
-   - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
-
-     ![](../media/img1.png)
-
-   - **Password:** <inject key="AzureAdUserPassword"></inject>
-
-     ![](../media/ex1img2.png)
-
-     >**Note** : If the **Welcome to Copilot Studio** prompt appears, click **Skip**.
+1. If the **Welcome to Copilot Studio** prompt appears, click **Skip**.
  
 1. Once you are inside **Copilot Studio** you will be in the home page. 
 
