@@ -67,6 +67,13 @@ In this task, you will integrate your RAG solution with a demo website, using it
 
    ![](../media/ex4img14.png)
 
+<validation step="64e70b89-f882-4aa0-a5c4-056506a10a70" />
+
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+> - If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help
+
 ## Summary
 
 In this exercise, you explored various deployment and publishing options for your AI-powered solution. The focus was on integrating Retrieval-Augmented Generation (RAG) with custom platforms, with an emphasis on deploying the solution to a public demo website. Authentication was removed for this lab, as the application was deployed as a public website. You examined different available channels, such as Teams, Slack, and others, but the primary focus was on configuring and publishing the app specifically to the Demo Website channel.
