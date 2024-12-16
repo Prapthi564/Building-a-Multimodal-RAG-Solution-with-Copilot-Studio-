@@ -28,7 +28,7 @@ In this task, you will create an agent in Copilot Studio. The agent will leverag
 
    ![](../media/ex3img2.png)
 
-1. In the next pane, provide the **Name** as **Physics Agent** and click on create.
+1. In the next pane, provide the **Name** as **Physics Agent** and click on Create.
 
    ![](../media/ex4img6.png)
 
@@ -74,7 +74,7 @@ In this task, you will create custom topics and integrate them with AI Search as
 
    ![](../media/ex3img9.png)
 
-1. Now a new pane will be opend from the left, click on **+ Add knowledge** under Knowledge sources.
+1. Now a new pane will be opened from the left, click on **+ Add knowledge** under Knowledge sources.
 
    ![](../media/ex3img10.png)
 
