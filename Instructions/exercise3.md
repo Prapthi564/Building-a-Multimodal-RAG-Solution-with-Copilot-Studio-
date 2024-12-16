@@ -88,9 +88,9 @@ In this task, you will create custom topics and integrate them with AI Search as
 
 1. Now provide **Azure AI Search Endpoint URL (1)** and **Azure AI Search Admin Key (2)** values which you have copied earlier and click on **Create (3)**.
 
-   ![](../media/ex3img14.png)
+   ![](../media/ex3img14u.png)
 
-1. In the next pane, ensure that phy-index is selected and click on **Add**.
+1. Click **Next**, and in the following pane, ensure that **phy-index** is selected, then click **Add**.
 
    ![](../media/ex4img9.png)
 
@@ -102,7 +102,7 @@ In this task, you will create custom topics and integrate them with AI Search as
 
    ![](../media/pp-15.png)
 
-1. Scroll up in the **Creative Generative Answers properties** and close it., in the design pane, under **Create generative answers** click on **>** option as shown.
+1. Scroll up in the **Creative Generative Answers properties** and close it, in the design pane, under **Create generative answers** click on **>** option as shown.
 
    ![](../media/ex3img18.png)
 
