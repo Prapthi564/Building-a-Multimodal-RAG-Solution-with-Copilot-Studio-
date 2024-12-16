@@ -94,6 +94,8 @@ Develop an intelligent health symptom identification bot that helps individuals 
 
    - Add previously created AI Search resource as Knowledge base.
 
+   - Make sure the responses are retrived only from the selected **Knowledge Base**.
+
    - Test the agent with some prompts.
 
 6. **Publishing the Agent as Web App from Copilot Studio:**

@@ -146,13 +146,13 @@
 
    - **Select Azure AI Search resource :** select **aisearch-<inject key="DeploymentID" enableCopy="false" />** **(5)** AI Search.
 
-   - **Enter the index name :** provide as **symptoms (6)**.
+   - **Enter the index name :** provide as **sym-index (6)**.
 
    - **Add vector search to this search resource :** ensure the option is **Checked (7)**
 
    - **Select an embedding model :** select **Azure OpenAI-text-embedding-ada-002 (8)** model.
 
-     ![](./media/img25.png)
+     ![](./media/img25-updated.png)
 
 1. On the Data management pane, keep everything as default and click on **Next**.
 
@@ -166,9 +166,9 @@
 
 1. Once the ingestion is completed, navigate back to Azure portal and from the resource list of the resource group, select **aisearch-<inject key="DeploymentID" enableCopy="false" />** AI search.
 
-1. In the **Azure AI Search** page, select **indexes** from left menu and you will be able to see an index with the name **symptoms** has been created.
+1. In the **Azure AI Search** page, select **indexes** from left menu and you will be able to see an index with the name **sym-index** has been created.
 
-   ![](./media/img28.png)
+   ![](./media/img28-updated.png)
 
    >**Note:** Please wait till some data populates under **Vector index size**, it may take some time to populate. The data may differ from the value shown in screenshot.
 
@@ -248,7 +248,7 @@
 
    - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
 
-     ![](./media/img1.png)
+     ![](./media/pp-1.png)
 
    - **Password:** <inject key="AzureAdUserPassword"></inject>
 
@@ -274,7 +274,7 @@
 
    ![](./media/img32.png)
 
-1. In the next pane, provide the **Name** as **Symptom Identification Agent** and click on create.
+1. In the next pane, provide the **Name** as **DiseaseIdentification Agent** and click on create.
 
    ![](./media/img33.png)
 
@@ -312,11 +312,15 @@
 
    ![](./media/img40.png)
 
-1. In the next pane, ensure that symptom index is selected and click on **Add**.
+1. In the next pane, ensure that sym-index is selected and click on **Add**.
 
-   ![](./media/img42.png)
+   ![](./media/img42-updated.png)
 
-1. Once after adding the input, click on **Save** to save the topic.
+1. In the same pane, under **Knowledge sources**, toggle **Search only selected sources (1)** button and select **Ai Search (2)** Knowledge base. Make sure that **Allow the AI to use its own general knowledge (preview)** option is turned off.
+
+   ![](./media/pp-15.png)
+
+1. Once after these configurations are done, click on **Save** to save the topic and provide name as **sym-topic**.
 
    ![](./media/img43.png)
 
