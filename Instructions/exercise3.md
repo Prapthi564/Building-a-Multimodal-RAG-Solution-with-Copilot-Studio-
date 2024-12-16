@@ -94,6 +94,10 @@ In this task, you will create custom topics and integrate them with AI Search as
 
    ![](../media/ex4img9.png)
 
+1. In the same pane, under Knowledge sources, toggle **Search only selected sources (1)** button and select **Ai Search (2)** Knowledge base. Make sure that **Allow the AI to use its own general knowledge (preview) (3(3)** option is turned off.
+
+   ![](../media/pp-15.png)
+
 1. Once it is added, in the design pane, under **Create generative answers** click on **>** option as shown.
 
    ![](../media/ex3img18.png)
