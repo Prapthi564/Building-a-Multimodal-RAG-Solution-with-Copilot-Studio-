@@ -100,7 +100,7 @@ In this task, you will create a environment in powerplatform to use with copilot
 
    ![](../media/pp-6.png)
 
-1. In the **Edit security group** pane, choose **None** opton and click on **Done**.
+1. In the **Edit security group** pane, choose **None** option and click on **Done**.
 
    ![](../media/pp-7.png)
 
@@ -111,6 +111,10 @@ In this task, you will create a environment in powerplatform to use with copilot
 1. Now the environment creation will start, please wait till the **State** changes from **Preparing** to **Ready**.
 
    ![](../media/pp-9.png)
+
+    **Note**: You can also use the **Refresh** button to check if the **State** is **Ready** after some time.
+
+   ![](../media/refresh.png)
 
 1. As you have now created a new environment, navigate to **Copilot Studio**  in a new tab using this link: [copilot studio](https://go.microsoft.com/fwlink/p/?linkid=2252408&clcid=0x409&culture=en-us&country=us)
 
@@ -128,6 +132,8 @@ In this task, you will create a environment in powerplatform to use with copilot
 
      ![](../media/ex1img2.png)
 
+     >**Note** : If the **Welcome to Copilot Studio** prompt appears, click **Skip**.
+ 
 1. Once you are inside **Copilot Studio** you will be in the home page. 
 
    ![](../media/ex1img3.png)
