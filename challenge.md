@@ -50,6 +50,12 @@ Develop an intelligent health symptom identification bot that helps individuals 
 
    - Create a container named **datasets**, upload the datasets that you have downloaded earlier.
 
+<validation step="7f1b4150-b57b-4e7b-9166-bd595f0a3d67" />
+ 
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+
 2. **Azure AI Search Resource Deployment:**
 
    - Set up an Azure AI Search resource with **Standard** tier.
@@ -59,6 +65,12 @@ Develop an intelligent health symptom identification bot that helps individuals 
    -  Ensure to provide the Azure AI Search resource name as: **aisearch-<inject key="Deployment ID" enableCopy="false"/>**.
 
    - Copy the **URL** and **API Key** from the portal.
+
+<validation step="3cec0c47-4ff7-4f1d-bc56-408a726ec7a9" />
+ 
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
 
 3. **Azure OpenAI Service Deployment :**
 
@@ -74,6 +86,12 @@ Develop an intelligent health symptom identification bot that helps individuals 
 
    - From the Chat Playground in OpenAI Studio, use the **Add Data Source** option to select Blob Storage as the source. Then, connect it with Azure AI Search to create **vectorized indexes** and provide index name as **sym-index**.
 
+<validation step="d6035f5d-cc07-4e66-8271-37cf195e8637" />
+ 
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+
 4. **Copilot Studio Setup and Agent Creation:**
 
    - Log in to **Power Platform Admin Center** [Power Platform](https://admin.powerplatform.microsoft.com/) using the credentials provided and create a production environment.
@@ -85,6 +103,12 @@ Develop an intelligent health symptom identification bot that helps individuals 
    - Change the environment to newly created environment.
 
    - Create New Agent and provide the necessary details and name as **DiseaseIdentification Agent**.
+
+<validation step="6d13fe0f-eed0-4d55-86d5-9f88bf2abeef" />
+ 
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
 
 5. **Topic Creation and Knowledge Base Integration:**
 
@@ -98,6 +122,12 @@ Develop an intelligent health symptom identification bot that helps individuals 
 
    - Test the agent with some prompts.
 
+<validation step="5425a04a-c3a5-4aef-8c8c-9bcf2df1ecbf" />
+ 
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+
 6. **Publishing the Agent as Web App from Copilot Studio:**
 
    - Disable **authentication** from settings in Copilot Studio.
@@ -105,6 +135,12 @@ Develop an intelligent health symptom identification bot that helps individuals 
    - Configure **Demo Web App** as the channel to publish the agent.
 
    - Publish the agent, use the **URL** to navigate to the App.
+
+<validation step="4588c822-71a3-4d4a-984f-8e8e343017c8" />
+ 
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
 
 ## Success Criteria  
 
