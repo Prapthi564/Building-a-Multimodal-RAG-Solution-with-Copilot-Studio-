@@ -20,6 +20,8 @@ In this task, you will integrate your RAG solution with a demo website, using it
 
    ![](../media/ex4img1.png)
 
+   >**Note** : If you don't see the **Settings** option, click on the **ellipsis (...)** and select **Settings**.
+
 1. From the **Settings** pane, select **Security (1)** from left menu and click on **Authentication (2)**.
 
    ![](../media/ex4img2.png)
@@ -64,6 +66,13 @@ In this task, you will integrate your RAG solution with a demo website, using it
 1. Once it is published, open a new tab in the browser and use the URL copied o navigate to the **Demo Website**. You will see a pleasant user interface with our agent will be opened, which copilot handled for us.
 
    ![](../media/ex4img14.png)
+
+<validation step="64e70b89-f882-4aa0-a5c4-056506a10a70" />
+
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+> - If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help
 
 ## Summary
 

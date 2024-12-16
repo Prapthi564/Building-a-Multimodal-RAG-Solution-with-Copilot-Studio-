@@ -140,6 +140,14 @@ In this task, you will create a environment in powerplatform to use with copilot
 
    ![](../media/pp-11.png)
 
+
+<validation step="658eee55-d10b-4753-b81b-52babd12f376" />
+
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+> - If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help
+
 ## Summary
 
 In this exercise, you explored the fundamentals of Retrieval-Augmented Generation (RAG) and its role in enhancing AI workflows. You reviewed how RAG integrates external knowledge sources to deliver accurate and context-rich responses. Additionally, you gained an overview of Copilot Studio, learning how it automates RAG workflows and simplifies tasks such as data integration and skill customization. By logging into Copilot Studio, you became familiar with its interface, preparing you to leverage its capabilities for building effective RAG solutions.
