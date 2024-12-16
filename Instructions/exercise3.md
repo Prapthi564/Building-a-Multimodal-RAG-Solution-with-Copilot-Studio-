@@ -90,15 +90,19 @@ In this task, you will create custom topics and integrate them with AI Search as
 
    ![](../media/ex3img14.png)
 
-1. In the next pane, ensure that hr-index is selected and click on **Add**.
+1. In the next pane, ensure that phy-index is selected and click on **Add**.
 
    ![](../media/ex4img9.png)
 
-1. In the same pane, under Knowledge sources, toggle **Search only selected sources (1)** button and select **Ai Search (2)** Knowledge base. Make sure that **Allow the AI to use its own general knowledge (preview) (3(3)** option is turned off.
+1. Now the **Create generative answers** component is created, click on **Edit** under **Data sources** to add your knowlegde base.
+
+   ![](../media/ex3img9.png)
+
+1. In the same pane, under Knowledge sources, toggle **Search only selected sources (1)** button and select **Ai Search (2)** Knowledge base. Make sure that **Allow the AI to use its own general knowledge (preview) (3)** option is turned off.
 
    ![](../media/pp-15.png)
 
-1. Once it is added, in the design pane, under **Create generative answers** click on **>** option as shown.
+1. Scroll up in the **Creative Generative Answers properties** and close it., in the design pane, under **Create generative answers** click on **>** option as shown.
 
    ![](../media/ex3img18.png)
 
@@ -117,6 +121,8 @@ In this task, you will create custom topics and integrate them with AI Search as
 In this task, you will test the RAG pipeline in Copilot Studio. You will evaluate the effectiveness of the integration between AI Search and the agent, test its ability to handle queries, and optimize the pipeline to ensure fast, accurate, and context-aware responses.
 
 1. In the design pane, you will be able to see a chat area in the right as **Test your agent**.
+  
+   >**Note** : If you don't see the **Test your agent** option, click on **Test** in the top-right corner.
 
 1. In the **Test your agent** pane, use the prompts given here and get the answers for them.
 

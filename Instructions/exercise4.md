@@ -20,6 +20,8 @@ In this task, you will integrate your RAG solution with a demo website, using it
 
    ![](../media/ex4img1.png)
 
+   >**Note** : If you don't see the **Settings** option, click on the **ellipsis (...)** and select **Settings**.
+
 1. From the **Settings** pane, select **Security (1)** from left menu and click on **Authentication (2)**.
 
    ![](../media/ex4img2.png)
