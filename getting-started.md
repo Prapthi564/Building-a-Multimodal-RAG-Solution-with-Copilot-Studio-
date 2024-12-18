@@ -1,6 +1,6 @@
 # Getting started with Challenge Environment
 
-### Overall Estimated Duration : 3 Hours
+### Overall Estimated Duration : 4 Hours
 
 Welcome to Copilot Hackathon, We've prepared a seamless environment for you to explore and learn. Let's begin by making the most of this experience.
 
