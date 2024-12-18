@@ -1,6 +1,6 @@
 # Challenge: Develop a Health Symptom and Disease Identification Copilot agent using Azure OpenAI and Copilot Studio
 
-### Estimated Time: 3 Hours
+### Estimated Time: 4 Hours
   
 ## Problem Statement
 
