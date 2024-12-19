@@ -52,11 +52,11 @@ To understand the versatility of RAG, let’s explore some key use cases across 
 
 - Study Partner: RAG can be used to enhance the learning experience for study partners by retrieving relevant study materials, practice questions, and academic resources from textbooks, research papers, or online databases. It can help study groups by providing instant answers to questions, summarizing complex topics, or offering additional resources, improving collaboration and efficiency in preparing for exams or assignments.
 
-For this lab, you will focus on the Study Partner use case, where we crafted the dataset with intresting physics topics that you can explore.
+For this lab, you will focus on the Study Partner use case, where we crafted the dataset with interesting physics topics that you can explore.
 
 ### Task 2: Setting Up an Environment for Copilot Studio
 
-In this task, you will create a environment in powerplatform to use with copilot studio and log in to Copilot Studio to access the environmnet created.
+In this task, you will create a environment in powerplatform to use with copilot studio and log in to Copilot Studio to access the environment created.
 
 1. From your browser, navigate to **Power Platform Admin Center** using this link [Power Platform](https://admin.powerplatform.microsoft.com/)
 
@@ -76,7 +76,7 @@ In this task, you will create a environment in powerplatform to use with copilot
 
    ![](../media/pp-3.png)
 
-1. Once signed in, toggle **Try the new admin center** button to use new experiance.
+1. Once signed in, toggle **Try the new admin center** button to use new experience.
 
    ![](../media/pp-14.png)
 
@@ -132,7 +132,7 @@ In this task, you will create a environment in powerplatform to use with copilot
 
    ![](../media/pp-10.png)
 
-1. Change the environmnet to the new environmnet that you have created earlier. Keep the tab open as you will be using this in further exercises.
+1. Change the environment to the new environment that you have created earlier. Keep the tab open as you will be using this in further exercises.
 
    ![](../media/pp-11.png)
 

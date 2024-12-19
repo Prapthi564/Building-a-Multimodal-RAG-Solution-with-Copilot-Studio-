@@ -16,7 +16,7 @@ You will be able to complete the following task:
 
 In this task, you will connect Blob Storage as a data source in Azure AI Studio's Chat Playground. The GPT-4 Turbo and text embedding models will process the uploaded files, extract relevant data, and create indexed vectors in Azure AI Search. You will then review the created indexes.
 
-1. As you have setup Copilot Stuido, now its time to ingest data. Navigate to Azure Portal from you browser.
+1. As you have setup Copilot Studio, now it's time to ingest data. Navigate to Azure Portal from your browser.
 
 1. From Azure Portal, scroll down and click on **Resource groups**.
 
@@ -34,7 +34,7 @@ In this task, you will connect Blob Storage as a data source in Azure AI Studio'
 
    ![](../media/i2.png)
 
-1. Once you are inside **Azure AI Foundry**, click on **deployments** to check the models deployed.
+1. Once you are inside the **Azure AI Foundry**, click on **deployments** to check the deployed models.
 
    ![](../media/ex2img13.png)
 
@@ -78,7 +78,7 @@ In this task, you will connect Blob Storage as a data source in Azure AI Studio'
 
    ![](../media/ex2img9.png)
 
-1. Once the Add data pane is closed, you can see **Ingestion in progress** status under Add you data. Please wait till it completes.
+1. Once the Add data pane is closed, you can see **Ingestion in progress** status under Add you data. Please wait until it completes.
 
    ![](../media/ex2img10.png)
 
@@ -90,9 +90,9 @@ In this task, you will connect Blob Storage as a data source in Azure AI Studio'
 
    ![](../media/ex4img8.png)
 
-   >**Note:** Please wait till some data populates under **Vector index size**, it may take some time to populate. The data may differ from the value shown in screenshot.
+   >**Note:** Please wait until some data populates under **Vector index size**, it may take some time to populate. The data may differ from the value shown in screenshot.
 
-1. Now the data is ingested and the index is created successfully.
+1. Now the data has been ingested, and the index has been created successfully.
 
 <validation step="cc95dc23-c095-45c8-897b-0a9a51d73695" />
 

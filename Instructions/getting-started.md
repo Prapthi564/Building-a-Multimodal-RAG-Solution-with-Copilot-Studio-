@@ -52,7 +52,7 @@ The architecture for this lab involves several key components:
 
 ## Getting Started with Lab
 
-Welcome to Building a Multimodal RAG Solution with Copilot Studio Hand-On-Lab! , We've prepared a seamless environment for you to explore and learn. Let's begin by making the most of this experience.
+Welcome to Building a Multimodal RAG Solution with Copilot Studio Hands-On-Lab! , We've prepared a seamless environment for you to explore and learn. Let's begin by making the most of this experience.
 
 ### Accessing Your Lab Environment
 
