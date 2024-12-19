@@ -54,6 +54,8 @@ The architecture for this lab involves several key components:
 
 Welcome to Building a Multimodal RAG Solution with Copilot Studio Hands-On-Lab! , We've prepared a seamless environment for you to explore and learn. Let's begin by making the most of this experience.
 
+>**Note:** If a PowerShell window appears once the environment is active, please don't close it. Minimize it instead of closing it and proceed with the tasks.
+
 ### Accessing Your Lab Environment
 
 Once you're ready to dive in, your virtual machine and Lab guide will be right at your fingertips within your web browser.
