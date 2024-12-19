@@ -67,6 +67,8 @@ In this task, you will integrate your RAG solution with a demo website, using it
 
    ![](../media/ex4img14.png)
 
+   ![](../media/phyup10.png)
+
 <validation step="64e70b89-f882-4aa0-a5c4-056506a10a70" />
 
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:

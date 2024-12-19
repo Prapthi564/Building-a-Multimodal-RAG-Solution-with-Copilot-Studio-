@@ -62,9 +62,31 @@ In this task, you will create custom topics and integrate them with AI Search as
 
    ![](../media/ex3img6updated.png)
 
-1. To build a workflow, click on **+** option as shown.
+1. Once you are in the design pane, you will add some phrases so that the topic will be triggred when we use those phrases in the chat. To do that, click on **edit** under phrases.
 
-   ![](../media/ex3img7.png)
+   ![](../media/phyup1.png)
+
+1. In the new pane, add the phrases - `hello`, `physics` and `bot`, so that whenever you use these phrases in the chat, this particular topic will be triggred.
+
+   ![](../media/phyup2.png)
+
+1. Once the phrases are added, click on **+** in the design pane and select **Ask a question** option from the menu.
+
+   ![](../media/phyup3.png)
+
+1. In the question node, add the message as `Hi there! What mind-bending concept in physics would you like to explore today?`.
+
+   ![](../media/phyup4.png)
+
+1. Once the message is added, click on **> (1)** option under identify and select **User's entire response (2)** option.
+
+   ![](../media/phyup5.png)
+
+1. Once after the configuration is done, your question node will look similar to this.
+
+   ![](../media/phyup6.png)
+
+1. Now its time add a **Genrative answers** node. To do that click on **+** in the design pane.
 
 1. Once after clicking on that, select **Advanced (1)** from the menu and click on **Genrative answers (2)**.
 
@@ -100,15 +122,15 @@ In this task, you will create custom topics and integrate them with AI Search as
 
 1. In the same pane, under Knowledge sources, toggle **Search only selected sources (1)** button and select **Ai Search (2)** Knowledge base. Make sure that **Allow the AI to use its own general knowledge (preview) (3)** option is turned off.
 
-   ![](../media/pp-15.png)
+   ![](../media/phyup11.png)
 
-1. Scroll up in the **Creative Generative Answers properties** and close it, in the design pane, under **Create generative answers** click on **>** option as shown.
+1. Scroll up in the **Creative Generative Answers properties** and close it, in the design pane, under **Create generative answers** click on **> (1)** option as shown and select **Var1 (2)**, which will pass the user's entire response to this node. 
 
-   ![](../media/ex3img18.png)
+   ![](../media/phyup7.png)
 
-1. A menu will be opened after clicking on it, under **System (1)** select **Activity.Text (2)**.
+1. Once after setup, your workflow will look similar to this.
 
-   ![](../media/ex3img19.png)
+   ![](../media/phyup8.png)
 
 1. Once after adding the input, click on **Save** and provide the name as **phy-topic** and save it.
 
@@ -124,9 +146,9 @@ In this task, you will test the RAG pipeline in Copilot Studio. You will evaluat
   
    >**Note** : If you don't see the **Test your agent** option, click on **Test** in the top-right corner.
 
-1. In the **Test your agent** pane, use the prompts given here and get the answers for them.
+1. In the **Test your agent** pane, use `hello, physics bot` to trigger your topic, it will ask a question like **Hi there! What mind-bending concept in physics would you like to explore today?**, then use the prompts given to explore your agent.
 
-   ![](../media/ex4img10.png)
+   ![](../media/phyup9.png)
 
 1. We've crafted a collection of mind-blowing physics concepts as knwoledge base just for you! Dive in with these prompts, ask away, and unlock the mysteries: 
 
