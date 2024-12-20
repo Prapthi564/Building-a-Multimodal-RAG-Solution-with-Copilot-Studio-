@@ -114,13 +114,19 @@ Develop an intelligent health symptom identification bot that helps individuals 
 
    -  Create new topic and name the topic as **sym-topic**.
 
+   - Setup trigger phrases and configure the workflow.
+
    - In the newly created topic, add a Generative Answers node and configure it to pull answers from the Knowledge Base.
 
-   - Add previously created AI Search resource as Knowledge base.
+   - Add previously created **AI Search** resource as Knowledge base.
 
    - Make sure the responses are retrived only from the selected **Knowledge Base**.
 
-   - Test the agent with some prompts.
+   - Test the agent with some prompts like:
+
+     - `I'm feeling chest pain and difficulty breathing, should I be worried about any particular disease?`
+
+     - `How does the severity of conditions like depression and anxiety compare with physical diseases such as pneumonia and tuberculosis?`
 
 <validation step="5425a04a-c3a5-4aef-8c8c-9bcf2df1ecbf" />
  
@@ -168,11 +174,15 @@ Develop an intelligent health symptom identification bot that helps individuals 
 
 - The agent should be deployed as a web app and made accessible online.
 
+- Make sure that all validations are successful.
+
 ## Additional Resources:
 
 - Refer to the [Copilot Studio Documentation](https://learn.microsoft.com/en-us/microsoft-copilot-studio/) for any clarifications or guidance during the challenge.
 
 - Refer to the [Add your Own Data](https://learn.microsoft.com/en-us/azure/ai-services/openai/use-your-data-quickstart?tabs=command-line%2Cjavascript-keyless%2Ctypescript-keyless%2Cpython-new&pivots=ai-foundry-portal) for any clarifications or guidance during the challenge.
+
+- You can use the previous day’s lab guides as a reference to complete the challenge.
 
 ## Conclusion  
 

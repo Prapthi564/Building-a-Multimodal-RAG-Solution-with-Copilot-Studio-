@@ -29,6 +29,6 @@ This hackathon adopts a challenge-based format, offering you a unique opportunit
 
 Begin your journey by setting up Azure OpenAI Service and deploying a GPT-4 model along with a text-embedding model. Leverage Retrieval-Augmented Generation (RAG) to connect the models with the datasets you’ve been provided. This will enable the system to pull relevant information from the datasets based on user input, enhancing the disease identification process. The RAG approach will allow the system to generate accurate, context-specific responses by integrating both the power of large language models and real-time data retrieval.
     
-### Happy hacking!
+## Happy Hacking!!
 
 

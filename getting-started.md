@@ -58,4 +58,3 @@ Feel free to start, stop, or restart your virtual machine as needed from the Res
 
 9. Now, click on the **Next** from lower right corner to move on next page.
 
-## Happy Learning!!
