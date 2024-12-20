@@ -16,24 +16,6 @@ Develop an intelligent health symptom identification bot that helps individuals 
 
 - Download and extract the datasets for this challenge using the [symptoms_datasets](https://github.com/CloudLabsAI-Azure/Building-a-Multimodal-RAG-Solution-with-Copilot-Studio-/archive/refs/heads/health-Dataset.zip) link. Please make sure you extract these files inside `C:\LabFiles`.
 
-## Accessing the Azure portal
-
-1. To access the Azure portal, open a private/incognito window in your browser and navigate to the Azure Portal.
-
-1. On the Sign in to Microsoft Azure tab, you will see a login screen. Enter the following email/username, and then click on Next.
-
-   - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
-
-1. Now enter the following password and click on Sign in.
-
-   - **Password:** <inject key="AzureAdUserPassword"></inject>
-
-1. If you see the pop-up Stay Signed in?, click No.
-
-1. If you see the pop-up You have free Azure Advisor recommendations!, close the window to continue with the challenge.
-
-1. If a Welcome to Microsoft Azure pop-up window appears, click Maybe Later to skip the tour.
-
 ## Challenge Objectives  
 
 1. **Azure Blob Storage Deployment:**
@@ -90,13 +72,7 @@ Develop an intelligent health symptom identification bot that helps individuals 
 
 4. **Copilot Studio Setup and Agent Creation:**
 
-   - Log in to **Power Platform Admin Center** [Power Platform](https://admin.powerplatform.microsoft.com/) using the credentials provided and create a production environment.
-
-   - Make sure to provide environment name as **odl_user_<inject key="Deployment ID" enableCopy="false"/>_env**.
-
-   - Log in to [Copilot Studio](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjP2MGwj5GKAxV2hK8BHX7POdIQFnoECA4QAQ&url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fmicrosoft-copilot%2Fmicrosoft-copilot-studio&usg=AOvVaw1WLkkpGQ2nGBKuMr-VIVIC&opi=89978449)  using the credentials provided.
-
-   - Change the environment to newly created environment.
+   - Access the Copilot Studio which you had opened earlier.
 
    - Create New Agent and provide the necessary details and name as **DiseaseIdentification Agent**.
 
