@@ -12,10 +12,6 @@ Develop an intelligent health symptom identification bot that helps individuals 
 
 - Display a brief description of each disease.
 
-- Indicate the severity level of each disease (e.g., low, medium, high).
-
-- Provide simple precautionary steps or recommendations for each disease.
-
 ## Datasets 
 
 - Download and extract the datasets for this challenge using the [symptoms_datasets](https://github.com/CloudLabsAI-Azure/Building-a-Multimodal-RAG-Solution-with-Copilot-Studio-/archive/refs/heads/health-Dataset.zip) link. Please make sure you extract these files inside `C:\LabFiles`.
