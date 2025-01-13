@@ -1,0 +1,18 @@
+[
+    {
+      "Name": "Develop a memory Game with GitHub Copilot",
+      "Language": "English",
+      "BaseURL": "https://github.com/CloudLabsAI-Azure/Building-a-Multimodal-RAG-Solution-with-Copilot-Studio-",
+      "Files": [
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Building-a-Multimodal-RAG-Solution-with-Copilot-Studio-/refs/heads/main/Instructions/getting-started-split.md",
+          "Order": 1
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Building-a-Multimodal-RAG-Solution-with-Copilot-Studio-/refs/heads/main/Instructions/exercise1-split.md",
+          "Order": 2
+        }
+
+      ]
+    }
+  ]
