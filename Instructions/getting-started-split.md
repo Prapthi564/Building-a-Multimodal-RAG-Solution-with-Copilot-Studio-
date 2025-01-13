@@ -10,7 +10,7 @@ This hands-on lab guides participants through building and automating a Retrieva
 
 Learn to build and automate a Retrieval-Augmented Generation (RAG) solution, leveraging AI models like text embeddings, language models, and generative AI. By the end of this lab, you will get insights on these concepts:
 
-- ** :** Learn to ingest data into a system powered by Azure AI tools and preprocess it using GPT-4 Turbo and text embedding models.
+- **Build Retrival Augmented Generation solution in Azure AI Foundry:** Learn to ingest data into a system powered by Azure AI tools and preprocess it using GPT-4 Turbo and text embedding models.
 
 ## Pre-requisites
 
