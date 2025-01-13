@@ -1,4 +1,4 @@
-# Deveoping a Multimodal RAG Solution
+# Developing a Multimodal RAG Solution
 
 ### Overall Estimated Duration : 1 Hour
 
