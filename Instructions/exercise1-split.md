@@ -1,4 +1,4 @@
-# Exercise 1: Build Retrival Augmented Generation solution in Azure AI Foundry 
+# Exercise 1: Build Retrieval Augmented Generation solution in Azure AI Foundry 
 
 ### Estimated Duration: 1 Hour
 
@@ -110,7 +110,7 @@ In this task, you will connect Blob Storage as a data source in Azure AI Studio'
 
 1. Now the data has been ingested, and the index has been created successfully.
 
-1. Now navigate back to **Chat Playground** in Azure AI Foundary Portal, try out these prompts to verify the working of Retrival Augmented Generation (RAG).
+1. Now navigate back to **Chat Playground** in Azure AI Foundary Portal, try out these prompts to verify the working of Retrieval Augmented Generation (RAG).
 
    - `What happens to time when an object moves close to the speed of light?`
 
