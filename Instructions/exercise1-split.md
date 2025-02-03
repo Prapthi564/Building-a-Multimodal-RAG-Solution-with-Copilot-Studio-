@@ -1,6 +1,6 @@
 # Exercise 1: Build Retrieval Augmented Generation solution in Azure AI Foundry 
 
-### Estimated Duration: 1 Hour
+### Estimated Duration: 60 minutes
 
 ## Overview
 
@@ -82,9 +82,9 @@ In this task, you will connect Blob Storage as a data source in Azure AI Studio'
 
    - **Add vector search to this search resource :** ensure the option is **Checked (7)**
 
-   - **Select an embedding model :** select **Azure OpenAI-text-embedding-ada-002 (8)** model.
+   - **Select an embedding model :** select **Azure OpenAI Service-text-embedding-ada-002 (8)** model.
 
-     ![](../media/ex4img5.png)
+     ![](../media/ex4img5upd.png)
 
 1. On the Data management pane, keep everything as default and click on **Next**.
 

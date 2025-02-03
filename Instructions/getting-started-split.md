@@ -1,10 +1,10 @@
 # Developing a Multimodal RAG Solution
 
-### Overall Estimated Duration : 1 Hour
+### Overall Estimated Duration : 60 minutes
 
 ## Overview
 
-This hands-on lab guides participants through building and automating a Retrieval-Augmented Generation (RAG) solution. Participants will explore how to ingest diverse data sources while leveraging AI models like text embeddings, language models, and generative AI capabilities.
+This hands-on lab guides you through building and automating a Retrieval-Augmented Generation (RAG) solution. You will explore how to ingest diverse data sources while leveraging AI models like text embeddings, language models, and generative AI capabilities.
 
 ## Objective
 
