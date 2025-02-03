@@ -84,7 +84,7 @@ In this task, you will connect Blob Storage as a data source in Azure AI Studio'
 
    - **Select an embedding model :** select **Azure OpenAI Service-text-embedding-ada-002 (8)** model.
 
-     ![](../media/ex4img5upd.png)
+     ![](../media/ex4img5upd1.png)
 
 1. On the Data management pane, keep everything as default and click on **Next**.
 
