@@ -4,7 +4,7 @@
 
 ## Overview
 
-This hands-on lab guides you through building and automating a Retrieval-Augmented Generation (RAG) solution. You will explore how to ingest diverse data sources while leveraging AI models like text embeddings, language models, and generative AI capabilities.
+In this hands-on lab, you will learn to build and automate a Retrieval-Augmented Generation (RAG) solution using Azure AI Foundry. You will explore how to ingest diverse data sources and preprocess them with AI models like GPT-4 Turbo and text embeddings. This lab will guide you through integrating these technologies to enhance retrieval accuracy and generate more context-aware responses. By the end, you will have a deeper understanding of how to develop scalable AI-driven solutions that efficiently combine retrieval and generation for improved knowledge-based applications.
 
 ## Objective
 
