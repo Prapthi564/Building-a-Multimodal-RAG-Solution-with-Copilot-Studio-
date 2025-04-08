@@ -74,9 +74,11 @@ In this task, you will connect Blob Storage as a data source in Azure AI Studio'
 
    ![](../media/ex2img8.png)
 
-1. In the **Data connection** page, check the **API Key (1)**, click on **Next (2)** and click on **save and close**.
+1. In the **Data connection** page, check the **API Key (1)**, click on **Next (2)**.
 
    ![](../media/ex2img9.png)
+
+1. Click on **save and close**.   
 
 1. Once the Add data pane is closed, you can see **Ingestion in progress** status under Add you data. Please wait until it completes.
 
